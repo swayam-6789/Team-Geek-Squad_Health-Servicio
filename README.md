@@ -16,6 +16,7 @@ We are developing a simple, fast and reliable Digitalization System with a secur
 - HTML
 - CSS
 - BootStrap
+- Firebase 
 
 # Key Features
 - Detection of Dieases
@@ -23,6 +24,16 @@ We are developing a simple, fast and reliable Digitalization System with a secur
 
 - Appointment
 : We can book the slots to consult our doctor
+
+
+# Commits Made
+
+- fix : deployment of website
+- style : formatting, missing semi colons
+- refactor : adding of links
+- test : No production code change
+- chore : No production code change
+
 
 
 
