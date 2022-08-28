@@ -28,7 +28,7 @@ We are developing a simple, fast and reliable Digitalization System with a secur
 
 # Commits Made
 
-- fix : deployment of website
+- fix : deployment of website, adding of google maps
 - style : formatting, missing semi colons
 - refactor : adding of links
 - test : No production code change
